@@ -1,6 +1,3 @@
-LOUISHASASHI-DEV
-Web Developer • Information Systems Student • AI-Assisted Builder
-
 # Hi, I'm louishasashi-dev 👋
 
 💻 Aspiring Front-End Developer & Web Developer
