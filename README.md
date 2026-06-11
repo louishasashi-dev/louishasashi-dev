@@ -30,7 +30,7 @@ I believe the best way to learn is by building real projects, solving real probl
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,js,html,python" />
+  <img src="https://skillicons.dev/icons?i=php,js,html,css" />
 </p>
 
 ### Frameworks & Libraries
