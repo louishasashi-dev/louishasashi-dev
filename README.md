@@ -48,7 +48,7 @@ I believe the best way to learn is by building real projects, solving real probl
 ### Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,acode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio" />
 </p>
 
 ### Additional Experience
